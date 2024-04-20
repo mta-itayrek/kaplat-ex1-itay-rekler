@@ -1,2 +1,3 @@
 test: a.txt
 phase2,step g
+phase3,step o
